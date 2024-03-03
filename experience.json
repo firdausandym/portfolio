@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Tirta Dharma PDAM Kota Pasuruan",
+    "logo": "/images/aws.png",
+    "background": "moving-gradient-1",
+    "position": "Intern - IT Staff",
+    "start": "Sept. 2020",
+    "end": "Des. 2020",
+    "highlight": "text-orange-400",
+    "points": [
+      "Contributing in the Technical Department to procure, troubleshoot, and maintain the hardware as well as software required by the employees at the Pasuruan City Water Utility.",
+      "Creating a Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano."
+    ]
+  },
+  {
+    "name": "Elka Code",
+    "logo": "/images/zynga.png",
+    "background": "bg-white",
+    "position": "Backend Developer",
+    "start": "Nov 2021",
+    "end": "April 2023",
+    "highlight": "text-red-400",
+    "points": [
+      "Participating in the backend development and crafting various APIs.",
+      "within a project called Bricks App located in its home country, France, focusing on Architecture and Construction with numerous exciting features."
+    ]
+  },
+  {
+    "name": "PT Cebes Indonesia",
+    "logo": "/images/x-cd logo.png",
+    "background": "moving-gradient-2",
+    "blend": "multiply",
+    "position": "Software Developer",
+    "start": "Mei 2023",
+    "end": "Now",
+    "highlight": "text-indigo-400",
+    "points": [
+      "PT CEBES INDONESIA is a Dutch company with over 30 years of experience in software development, serving numerous clients. The Indonesian branch was established in 2006. PT CEBES INDONESIA specializes in developing high-quality web-based applications. Since then, several significant applications have been developed for the European market.",
+      "Project: Viper, Darmawisata Indonesia",
+      "Description: to be continued"
+    ]
+  }
+]

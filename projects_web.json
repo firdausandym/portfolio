@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Sistem Pengatur Nutrisi Hidroponik Otomatis",
+    "image": "/images/littlelolli.png",
+    "collaborators": "by myself for thesis",
+    "description": "sebuah alat untuk mengatur nutrisi hidroponik otomatis melalui mobile.",
+    "technologies": [
+      "arduino",
+      "blynk",
+      "wemos d1 r1"
+    ],
+    "website": "https://littlelolli.shop/",
+    "github": "https://github.com/firdausandym",
+    "year": 2021
+  },
+  {
+    "name": "Eoapp",
+    "image": "/images/bobcoin.webp",
+    "collaborators": "by myself",
+    "description": "sebuah backend untuk aplikasi event organizer terdapat 2 versi Nest JS dan Express JS.",
+    "technologies": [
+      "node.js",
+      "express.js",
+      "mongodb"
+    ],
+    "website": "https://bobcoin.cash",
+    "github": "https://github.com/firdausandym",
+    "year": 2022,
+    "more": "/articles/how-i-made-my-own-cryptocurrency"
+  },
+  {
+    "name": "Bricks App",
+    "image": "/images/artsume.webp",
+    "collaborators": "with elka code team",
+    "description": "sebuah web aplikasi agile untuk mengorganisir proyek dan kontraktor",
+    "technologies": [
+      "nest.js",
+      "express.js",
+      "angular",
+      "mongodb",
+      "graphql"
+    ],
+    "website": "https://artsu.me/",
+    "github": "",
+    "year": 2022
+  },
+  {
+    "name": "Viper software",
+    "image": "/images/cardistry.png",
+    "collaborators": "with viper software netherland",
+    "description": "sebuah web aplikasi kursus bagi murid di belanda",
+    "technologies": [
+      ".net",
+      "css",
+      "xml",
+      "sql-server"
+    ],
+    "website": "https://firdausandym.github.io/Cardistry/",
+    "github": "https://github.com/firdausandym/Cardistry",
+    "year": 2023
+  },
+  {
+    "name": "Darmawisata Indonesia",
+    "image": "/images/pathforge.webp",
+    "collaborators": "with cebes team",
+    "description": "sebuah aplikasi mobile yang menyediakan pelayanan tour dan travel",
+    "technologies": [
+      ".net",
+      "angular",
+      "node.js",
+      "sql-server"
+    ],
+    "website": "https://pathforge.co/",
+    "year": 2023
+  }
+]

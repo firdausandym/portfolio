@@ -193,8 +193,7 @@
       <section>
         <h2
           class={`w-full text-resume-primary bg-resume-light border-resume-primary pl-2 py-0 border-l-2 font-bold text-sm`}
-        >
-          Projects
+        > Projects
         </h2>
         <ul class="flex flex-col gap-2.5 mt-2">
           {#each resume.projects as project}

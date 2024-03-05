@@ -3,9 +3,6 @@
   import Main from "./pages/Main.svelte";
   import Footer from "./components/Footer.svelte";
   import Resume from "./pages/Resume.svelte";
-  import FunFacts from "./pages/FunFacts.svelte";
-  import Article from "./pages/Article.svelte";
-
   import { Router, Route } from "svelte-routing";
   export let url = ""; //This property is necessary declare to avoid ignore the Router
 
@@ -40,13 +37,6 @@
     <Route path="resume" component={Resume} />
     <Route path="Resume" component={Resume} />
 
-    <Route
-      path="articles/how-i-made-my-own-cryptocurrency"
-      component={Article}
-    />
-
-    <Route path="Facts" component={FunFacts} />
-    <Route path="facts" component={FunFacts} />
   </Router>
   <Footer />
 </div>

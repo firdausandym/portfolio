@@ -33,29 +33,15 @@
         <i class="far fa-envelope fa-lg" />
       </a>
     </li>
-
-    <!-- <a href="https://www.instagram.com/n.bob.s/" target="_blank"
-        ><i class="text-gray-800 dark:text-gray-50 fab fa-instagram fa-lg" /></a
-      > -->
-    <li class="m-0">
-      <a
-        title="View my Codepens"
-        aria-label="View my Codepens"
-        href="https://codepen.io/firdausandym"
-        target="_blank"
-        class="nav-text p-1"><i class="fab fa-codepen fa-lg" /></a
-      >
-    </li>
   </ul>
 
   <div class="text-center">
     <a
       data-aos="fade-up"
       class="nav-text text-gray-700 dark:text-gray-50"
-      href="https://github.com/firdausandym/Portfolio-V2"
+      href="https://github.com/firdausandym/"
       target="_blank"
     >
-      <!-- Designed & Built by Ng Bob Shoaun &copy; <time>2023</time> -->
     </a>
   </div>
 </footer>

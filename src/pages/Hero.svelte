@@ -96,7 +96,7 @@
     >
 
     <!-- <a
-    href="https://www.instagram.com/n.bob.s/"
+    href="https://www.instagram.com/firdausandym/"
     target="_blank"
     class="block mb-8"
     ><i class="text-gray-800 dark:text-gray-50 fab fa-instagram fa-lg" /></a
@@ -111,10 +111,6 @@
     >
       <i class="far fa-envelope" />
     </a>
-
-    <!-- <a href="https://codepen.io/firdausandym" target="_blank" class="block mb-8"
-    ><i class="fab fa-codepen fa-lg" /></a
-  > -->
 
     <div class="shadow-xl w-4 h-28 bg-gray-700 dark:bg-gray-50" />
   </div>

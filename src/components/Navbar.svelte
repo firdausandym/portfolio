@@ -91,25 +91,8 @@
         data-aos-delay="300"
         data-aos-duration="700"
         class="nav-text"
-        noroute>Project dev</a
+        noroute>Projects</a
       >
-
-      <!-- <a
-        href="/#game-development"
-        data-aos="zoom-in"
-        data-aos-delay="400"
-        data-aos-duration="700"
-        class="nav-text"
-        noroute>Game dev</a
-      >
-      <a
-        href="/#graphic-design"
-        data-aos="zoom-in"
-        data-aos-delay="500"
-        data-aos-duration="700"
-        class="nav-text"
-        noroute>Design</a
-      > -->
       <a
         href="/#contact"
         data-aos="zoom-in"
@@ -188,25 +171,6 @@
         Web Development
       </a>
 
-      <!-- <a
-        on:click={() => (open = false)}
-        data-aos="slide-right"
-        data-aos-delay="200"
-        class="block bg-gray-50 dark:bg-gray-800 p-5"
-        href="/#game-development"
-      >
-        Game Development
-      </a>
-
-      <a
-        on:click={() => (open = false)}
-        data-aos="slide-left"
-        data-aos-delay="200"
-        class="block bg-gray-50 dark:bg-gray-800 p-5"
-        href="/#graphic-design"
-      >
-        Graphic Design
-      </a> -->
       <a
         on:click={() => (open = false)}
         data-aos="slide-right"
@@ -227,19 +191,6 @@
         Resume
       </a>
     </nav>
-    <!-- <div class="text-center">
-      <button
-        title="Close navigation menu"
-        aria-label="toggle theme"
-        data-aos="flip-up"
-        data-aos-delay="400"
-        on:click={toggleTheme}
-        class="border-gray-500 border-2 py-2 px-4 dark:text-gray-50 rounded-md"
-        ><i
-          class="{theme === 'dark' ? 'fa fa-moon' : 'far fa-sun'} mr-2"
-        />{theme === "dark" ? "Dark" : "Light"}</button
-      >
-    </div> -->
   </dialog>
 {/if}
 

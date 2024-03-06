@@ -66,7 +66,7 @@ const resume = {
   },
 
   // Ukulele
-  interests: ["Drums", "Graphic Design", "PC Building", "Table Tennis"],
+  interests: ["Music", "Graphic Design", "PC Building", "Touring"],
   languages: ["English", "Indonesia", "Japan"],
   lastUpdated: "March 2024",
   education: {
@@ -112,6 +112,34 @@ const resume = {
   ],
   projects: [
     {
+      name: "Automated Hydroponic Nutrition System",
+      type: "Thesis Project",
+      points: [
+        "Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano."
+      ],
+      link: "",
+      github: [
+        {
+          repo: "",
+          url: "",
+        },
+      ],
+    },
+    {
+      name: "Event Organizer Application (EOAPP)",
+      type: "Private Project",
+      points: [
+        "Event management application features backend in two versions: Nest JS and Express JS, offering an efficient experience in organizing, managing members, and executing events."
+      ],
+      link: "",
+      github: [
+        {
+          repo: "",
+          url: "",
+        },
+      ],
+    },
+    {
       name: "Bricks App",
       type: "Industrial Project",
       points: [
@@ -127,13 +155,27 @@ const resume = {
       link: "https://www.bricksapp.io/",
       github: [
         {
-          repo: "Bricks App",
+          repo: "",
           url: "https://www.bricksapp.io/",
         },
       ],
     },
     {
-      name: "Darmawisata Indonesia",
+      name: "Viper software",
+      type: "E-Learning Project",
+      points: [
+        "Platform for online courses for students in the Netherlands, designed to provide a deep and interactive learning experience. With a focus on effective teaching and accessibility, we bring quality education."
+      ],
+      link: "https://vipersoftware.nl/",
+      github: [
+        {
+          repo: "",
+          url: "",
+        },
+      ],
+    },
+    {
+      name: "Darmawisata Indonesia (Mobile)",
       type: "Tour & Travel Project",
       points: [
         "Develop a mobile application for Android and iOS using the Ionic framework, with .Net and SQL Server in the backend. Utilize various APIs for booking tickets for flights, trains, hotels, buses, ships, etc.",
@@ -142,7 +184,7 @@ const resume = {
       link: "https://play.google.com/store/apps/details?id=com.darmawistaindonesia&hl=id&gl=US",
       github: [
         {
-          repo: "Darmawisata Indonesia",
+          repo: "",
           url: "https://play.google.com/store/apps/details?id=com.darmawistaindonesia&hl=id&gl=US",
         },
       ],

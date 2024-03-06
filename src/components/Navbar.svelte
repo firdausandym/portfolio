@@ -53,6 +53,7 @@
     </p>
   </a> -->
 
+  <!-- this is configuration dark and light mode -->
   <button
       title="toggle theme"
       aria-label="toggle theme"

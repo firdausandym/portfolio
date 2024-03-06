@@ -1,38 +1,41 @@
 [
   {
-    "name": "Sistem Pengatur Nutrisi Hidroponik Otomatis",
-    "image": "/images/littlelolli.png",
+    "name": "Automated Hydroponic Nutrition System (IoT)",
+    "image": "/images/backend.webp",
     "collaborators": "by myself for thesis",
-    "description": "sebuah alat untuk mengatur nutrisi hidroponik otomatis melalui mobile.",
+    "description": "Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano.",
     "technologies": [
+      "microcontroller",
       "arduino",
       "blynk",
-      "wemos d1 r1"
+      "wemos"
     ],
-    "website": "https://littlelolli.shop/",
-    "github": "https://github.com/firdausandym",
+    "website": "",
+    "github": "",
     "year": 2021
   },
   {
-    "name": "Eoapp",
-    "image": "/images/bobcoin.webp",
+    "name": "Event Organizer Application (EOAPP)",
+    "image": "/images/backend.webp",
     "collaborators": "by myself",
-    "description": "sebuah backend untuk aplikasi event organizer terdapat 2 versi Nest JS dan Express JS.",
+    "description": "Event management application features backend in two versions: Nest JS and Express JS, offering an efficient experience in organizing, managing members, and executing events.",
     "technologies": [
       "node.js",
       "express.js",
+      "nest.js",
+      "graphql",
       "mongodb"
     ],
-    "website": "https://bobcoin.cash",
-    "github": "https://github.com/firdausandym",
+    "website": "https://github.com/firdausandym",
+    "github": "",
     "year": 2022,
-    "more": "/articles/how-i-made-my-own-cryptocurrency"
+    "more": ""
   },
   {
     "name": "Bricks App",
-    "image": "/images/artsume.webp",
+    "image": "/images/bricks.webp",
     "collaborators": "with elka code team",
-    "description": "sebuah web aplikasi agile untuk mengorganisir proyek dan kontraktor",
+    "description": "Bricks App is located in its home country, France, focusing on Architecture and Construction with numerous exciting features.",
     "technologies": [
       "nest.js",
       "express.js",
@@ -40,37 +43,38 @@
       "mongodb",
       "graphql"
     ],
-    "website": "https://artsu.me/",
+    "website": "https://www.bricksapp.io/",
     "github": "",
     "year": 2022
   },
   {
-    "name": "Viper software",
-    "image": "/images/cardistry.png",
+    "name": "Viper Software Netherland",
+    "image": "/images/viper.webp",
     "collaborators": "with viper software netherland",
-    "description": "sebuah web aplikasi kursus bagi murid di belanda",
+    "description": "Platform for online courses for students in the Netherlands, designed to provide a deep and interactive learning experience. With a focus on effective teaching and accessibility, we bring quality education.",
     "technologies": [
       ".net",
       "css",
       "xml",
       "sql-server"
     ],
-    "website": "https://firdausandym.github.io/Cardistry/",
-    "github": "https://github.com/firdausandym/Cardistry",
+    "website": "https://vipersoftware.nl/",
+    "github": "",
     "year": 2023
   },
   {
-    "name": "Darmawisata Indonesia",
-    "image": "/images/pathforge.webp",
+    "name": "Darmawisata Indonesia (Mobile)",
+    "image": "/images/di-mobile.webp",
     "collaborators": "with cebes team",
     "description": "sebuah aplikasi mobile yang menyediakan pelayanan tour dan travel",
     "technologies": [
+      "ionic",
       ".net",
       "angular",
       "node.js",
       "sql-server"
     ],
-    "website": "https://pathforge.co/",
+    "website": "https://play.google.com/store/apps/details?id=com.darmawistaindonesia&hl=id&gl=US",
     "year": 2023
   }
 ]

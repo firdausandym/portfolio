@@ -157,14 +157,11 @@ const resume = {
       name: "Bricks App",
       type: "Industrial Project",
       points: [
-        "A collaborative and flexible application for architecture and construction projects.",
-        "Facilitating team management and ensuring timely project completion.",
+        "A collaborative and flexible application for architecture and construction projects, Facilitating team management and ensuring timely project completion.",
         "Featuring compatible BIM platform integrations.",
-        "Programming languages used include JavaScript and TypeScript.",
-        "Utilizing the Node.js runtime.",
+        "Programming languages used include JavaScript and TypeScript with utilizing the Node.js runtime.",
         "Employing the Express.js and Nest.js frameworks.",
-        "Developing Web APIs using GraphQL and REST API.",
-        "Managed with a NoSQL database (MongoDB).",
+        "Developing Web APIs using GraphQL, REST API and managed with a NoSQL database (MongoDB).",
       ],
       link: "https://www.bricksapp.io/",
       github: [
@@ -175,7 +172,7 @@ const resume = {
       ],
     },
     {
-      name: "Viper software",
+      name: "Viper Software",
       type: "E-Learning Project",
       points: [
         "Platform for online courses for students in the Netherlands, designed to provide a deep and interactive learning experience. With a focus on effective teaching and accessibility, we bring quality education."

@@ -2,7 +2,7 @@
   {
     "name": "Tirta Dharma PDAM Kota Pasuruan",
     "logo": "/images/pdam.png",
-    "background": "moving-gradient-1",
+    "background": "bg-white",
     "position": "Intern - IT Staff",
     "start": "Sept. 2020",
     "end": "Des. 2020",
@@ -14,8 +14,8 @@
   },
   {
     "name": "Elka Code",
-    "logo": "/images/elka.jpg",
-    "background": "bg-white",
+    "logo": "/images/elka.webp",
+    "background": "323B48",
     "position": "Backend Developer",
     "start": "Nov 2021",
     "end": "April 2023",
@@ -28,8 +28,8 @@
   },
   {
     "name": "PT Cebes Indonesia",
-    "logo": "/images/cebes.png",
-    "background": "moving-gradient-2",
+    "logo": "/images/cebes.webp",
+    "background": "bg-white",
     "blend": "multiply",
     "position": "Software Developer",
     "start": "Mei 2023",

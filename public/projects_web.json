@@ -1,9 +1,25 @@
 [
   {
-    "name": "Automated Hydroponic Nutrition System (IoT)",
-    "image": "/images/backend.webp",
+    "name": "Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano",
+    "image": "/images/iot.webp",
+    "collaborators": "by myself for intern",
+    "description": "Introducing a cutting-edge Water Turbidity Monitoring Device, equipped with a state-of-the-art Turbidity Sensor and Solar Cells, powered by Arduino Nano. Stay ahead with real-time water quality insights and sustainable energy solutions.",
+    "technologies": [
+      "microcontroller",
+      "arduino nano",
+      "blynk",
+      "solar-cell",
+      "scc"
+    ],
+    "website": "",
+    "github": "",
+    "year": 2020
+  },
+  {
+    "name": "Design and Build an Internet of Things (IoT) Based Automated Nutrient Control System for Hydroponic Plants",
+    "image": "/images/iot.webp",
     "collaborators": "by myself for thesis",
-    "description": "Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano.",
+    "description": "A system that efficiently manages hydroponic plant nutrients, featuring a mobile interface for seamless control and monitoring.",
     "technologies": [
       "microcontroller",
       "arduino",
@@ -48,7 +64,7 @@
     "year": 2022
   },
   {
-    "name": "Viper Software Netherland",
+    "name": "Viper Software",
     "image": "/images/viper.webp",
     "collaborators": "with viper software netherland",
     "description": "Platform for online courses for students in the Netherlands, designed to provide a deep and interactive learning experience. With a focus on effective teaching and accessibility, we bring quality education.",

@@ -112,10 +112,24 @@ const resume = {
   ],
   projects: [
     {
-      name: "Automated Hydroponic Nutrition System",
+      name: "Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano.",
       type: "Thesis Project",
       points: [
-        "Water Turbidity Monitoring Device with Turbidity Sensor and Solar Cells Based on Arduino Nano."
+        "Introducing a cutting-edge Water Turbidity Monitoring Device, equipped with a state-of-the-art Turbidity Sensor and Solar Cells, powered by Arduino Nano. Stay ahead with real-time water quality insights and sustainable energy solutions."
+      ],
+      link: "",
+      github: [
+        {
+          repo: "",
+          url: "",
+        },
+      ],
+    },
+    {
+      name: "Design and Build an Internet of Things (IoT) Based Automated Nutrient Control System for Hydroponic Plants",
+      type: "Thesis Project",
+      points: [
+        "A system that efficiently manages hydroponic plant nutrients, featuring a mobile interface for seamless control and monitoring."
       ],
       link: "",
       github: [

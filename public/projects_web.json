@@ -82,7 +82,7 @@
     "name": "Darmawisata Indonesia (Mobile)",
     "image": "/images/di-mobile.webp",
     "collaborators": "with cebes team",
-    "description": "sebuah aplikasi mobile yang menyediakan pelayanan tour dan travel",
+    "description": "Mobile application for Android and iOS using the Ionic framework, with .Net and SQL Server in the backend. Utilize various APIs for booking tickets for flights, trains, hotels, buses, ships, etc.",
     "technologies": [
       "ionic",
       ".net",

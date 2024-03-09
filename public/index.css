@@ -1,6 +1,7 @@
-/*
-! tailwindcss v3.0.7 | MIT License | https://tailwindcss.com
-*/
+/* if you add the css ex: .bg-brown you must edit in here and 
+run "npm run build" then "npm run dev" to develop the project again */
+
+/* ! tailwindcss v3.0.7 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -2143,6 +2144,11 @@ html {
   }
 }
 
+.bg-brown {
+  --tw-bg-opacity: 1;
+  background-color: rgb(50, 59, 72, var(--tw-bg-opacity));
+}
+
 .first-letter\:text-4xl::first-letter {
   font-size: 2.25rem;
   line-height: 2.5rem;
@@ -2575,5 +2581,4 @@ html {
     margin-right: 7rem;
   }
 }
-
 

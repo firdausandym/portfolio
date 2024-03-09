@@ -122,14 +122,12 @@
   }
 
   @media (min-width: 768px) {
-    .exp:first-child,
-    .exp:nth-child(2) {
-      grid-column: 1 / span 2;
-      aspect-ratio: 2 / 1;
-    }
+    .exp {
+    grid-column: span 2;
+    aspect-ratio: 2 / 1;
+  }
 
-    .exp:first-child img,
-    .exp:nth-child(2) img {
+    .exp img {
       height: 80%;
     }
   }

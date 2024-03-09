@@ -1,3 +1,5 @@
+/* if you add the css ex: .bg-brown you must edit in here and 
+run "npm run build" then "npm run dev" to develop the project again */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -286,4 +288,8 @@ html {
   }
 }
 
+.bg-brown {
+  --tw-bg-opacity: 1;
+  background-color: rgb(50, 59, 72, var(--tw-bg-opacity));
+}
 

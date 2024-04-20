@@ -63,7 +63,7 @@
       on:click={toggleTheme}
       class="dark:text-gray-50 rounded-md"
       >
-      <i class="{theme === 'dark' ? 'fa fa-moon' : 'far fa-sun'} mr-2"></i>
+      <i class="{theme === 'dark' ? 'fa fa-moon' : 'far fa-sun'} mr-2" style="color: yellow;"></i>
       </button
     >
   <i></i>

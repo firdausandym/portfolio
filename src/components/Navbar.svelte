@@ -63,7 +63,7 @@
       on:click={toggleTheme}
       class="dark:text-gray-50 rounded-md"
       >
-      <i class="{theme === 'dark' ? 'fa fa-moon' : 'far fa-sun'} mr-2" style="color: yellow;"></i>
+      <i class="{theme === 'dark' ? 'fa fa-moon' : 'fa fa-sun fa-lg'} mr-2"></i>
       </button
     >
   <i></i>
@@ -199,9 +199,9 @@
   #navbar {
     transition: transform 0.3s; /* Transition effect when sliding down (and up) */
   }
-  .logo-type {
+  /* .logo-type {
     bottom: -0.7rem;
     left: -0.46rem;
     font-size: 2rem;
-  }
+  } */
 </style>
